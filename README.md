@@ -1,1 +1,40 @@
-# Write_A_Data_Science_Blog_Post
+
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Installation <a name="installation"></a>
+
+The code should run with no issues using Python versions 3.*. Below are the libraries I used in my Jupyter Notebook:
+-  numpy
+-  pandas
+-  matplotlib
+-  seaborn
+
+
+## Project Motivation<a name="motivation"></a>
+
+In this project, I use the Seattle Airbnb Data to better understand on the following:
+1. Which are the property_type in Seattle Airbnb and the price range?
+2. What factors about an individual contributed to salary?
+3. What factors may affect the price and booking rate?
+
+
+## File Descriptions <a name="files"></a>
+
+1. Seattle Airbnb Dataset.ipynb Jupyter notebook 
+2. calendar.csv Original dataset
+3. listings.csv Original dataset (key dataset used in this project to help understand the 3 questions above)
+4. reviews.csv Original dataset 
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+credit to the Seattle Airbnb Open Data [here](https://www.kaggle.com/datasets/airbnb/seattle).  
