@@ -27,9 +27,7 @@ In this project, I use the Seattle Airbnb Data to better understand on the follo
 ## File Descriptions <a name="files"></a>
 
 1. Seattle Airbnb Dataset.ipynb Jupyter notebook 
-2. calendar.csv Original dataset
-3. listings.csv Original dataset (key dataset used in this project to help understand the 3 questions above)
-4. reviews.csv Original dataset 
+2. listings.csv 
 
 ## Results<a name="results"></a>
 
