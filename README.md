@@ -20,7 +20,7 @@ The code should run with no issues using Python versions 3.*. Below are the libr
 
 In this project, I use the Seattle Airbnb Data to better understand on the following:
 1. Which are the property_type in Seattle Airbnb and the price range?
-2. What factors about an individual contributed to salary?
+2. Which room type/ property type are more popular - based on the availability_90 column?
 3. What factors may affect the price and booking rate?
 
 
@@ -33,7 +33,7 @@ In this project, I use the Seattle Airbnb Data to better understand on the follo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@chriswongpy/analysis-over-the-seattle-airbnb-open-data-fa221375d60d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
